@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "438504313764",
+    "project_id": "emoinu-foods",
+    "storage_bucket": "emoinu-foods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438504313764:android:25c4b83eda736f2645a731",
+        "android_client_info": {
+          "package_name": "com.emoinu.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438504313764-2u37sfagut1jg8vuu862nfhmn83fjv2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAnNiV4u93LQaKrftGQwvSchszVVe1ODY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438504313764-2u37sfagut1jg8vuu862nfhmn83fjv2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438504313764:android:1a7e2bf0767f6e0045a731",
+        "android_client_info": {
+          "package_name": "com.emoinu.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438504313764-2u37sfagut1jg8vuu862nfhmn83fjv2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAnNiV4u93LQaKrftGQwvSchszVVe1ODY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438504313764-2u37sfagut1jg8vuu862nfhmn83fjv2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
